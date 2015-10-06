@@ -1,0 +1,51 @@
+{
+	"contact" :
+		{
+			"copy":"For more info, reach out to",
+			"email":"hotels@soundfreaq.com"
+		},
+	"notes": [
+		{
+			"title":"Device Charging",
+			"url":"pocket-kick-design-note.pdf",
+			"preview":"Sound Rise Hotel Edition features dual-USB 2.1A charging ports for all tablets and phones. This eliminates both the need for an additional charging or outlet device on the nightstand and reduces clutter for a cleaner look in the room. The USB devices are located on top of the device and not hidden the back, for both ease-of-use and visibility."
+		},
+		{
+			"title":"Bluetooth Streaming",
+			"url":"double-spot-design-note.pdf",
+			"preview":"Guests today are capable of taking their entire music libraries with them, and Sound Rise Hotel Edition’s Bluetooth streaming allows them to enjoy their music, podcasts, or even streaming video with big, clear sound. With the Sound Rise conveniently located on the nightstand, there is no need for another wireless speaker elsewhere in the room, offering a cost savings, and, again, reducing clutter. Further, Bluetooth also allows for a dock-less design, which not only clears up real estate on the nightstand, but protects from future obsolescence as device hardware changes."
+		},
+		{
+			"title":"Features for the Guest",
+			"url":"sound-rise-design-note.pdf",
+			"preview":"Sound Rise Hotel Edition offers an interface that’s streamlined and simplified for hotel guests. Nobody wants to invest time or effort in figuring out a device that they’ll use only during their stay, so we made the alarm and Bluetooth features clear and intuitive so a guest will never wonder if they did it right. The adjustable brightness allows guests to set the display to their likeness, even if that means turning it all the way off. Tap any button and the display illuminates for 5 seconds."
+		},
+		{
+			"title":"Features for the Hotel",
+			"url":"sound-rise-design-note.pdf",
+			"preview":"In order to integrate Sound Rise Hotel Edition as seamlessly as possible, we made some changes that allow hotel staff to reset the Bluetooth connection with one touch upon checkout. A non-recurring alarm means a hotel doesn’t have to worry about alarms in empty rooms. And a lower maximum volume means that neighboring rooms won’t be bothered by sound bleed. An optional security tether means that Sound Rise Hotel Edition isn’t going anywhere no matter how much the guest wants to take it home."
+		},
+		{
+			"title":"Design",
+			"url":"sound-rise-design-note.pdf",
+			"preview":"The one thing we didn’t change for our hotel version was the look of Sound Rise. We felt that the same things that make the Sound Rise look at home in a bedroom will make it look at home in a hotel room. The clean lines, and elegant simplicity are still there, in either all-black or our wood + taupe color scheme."
+		}
+	],
+	"asSeenIn": [
+		{
+			"title":"ritz"
+		},
+		{
+			"title":"one-and-only"
+		},
+		{
+			"title":"thompson"
+		},
+		{
+			"title":"thestandard"
+		},
+		{
+			"title":"st-regis"
+		}
+	]
+}
