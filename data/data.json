@@ -7,28 +7,69 @@
 	"notes": [
 		{
 			"title":"Device Charging",
+			"handle":"device-charging",
 			"url":"pocket-kick-design-note.pdf",
-			"preview":"Sound Rise Hotel Edition features dual-USB 2.1A charging ports for all tablets and phones. This eliminates both the need for an additional charging or outlet device on the nightstand and reduces clutter for a cleaner look in the room. The USB devices are located on top of the device and not hidden the back, for both ease-of-use and visibility."
+			"mobile":"show",
+			"preview":
+				[
+				"Sound Rise Hotel Edition features dual-USB 2.1A charging ports for all tablets and phones. This eliminates both the need for an additional charging or outlet device on the nightstand and reduces clutter for a cleaner look in the room. The USB devices are located on top of the device and not hidden the back, for both ease-of-use and visibility."
+				]
 		},
 		{
 			"title":"Bluetooth Streaming",
+			"handle":"bluetooth-streaming",
 			"url":"double-spot-design-note.pdf",
-			"preview":"Guests today are capable of taking their entire music libraries with them, and Sound Rise Hotel Edition’s Bluetooth streaming allows them to enjoy their music, podcasts, or even streaming video with big, clear sound. With the Sound Rise conveniently located on the nightstand, there is no need for another wireless speaker elsewhere in the room, offering a cost savings, and, again, reducing clutter. Further, Bluetooth also allows for a dock-less design, which not only clears up real estate on the nightstand, but protects from future obsolescence as device hardware changes."
+			"mobile":"hide",
+			"preview":
+				[
+					"Guests today are capable of taking their entire music libraries with them, and Sound Rise Hotel Edition’s Bluetooth streaming allows them to enjoy their music, podcasts, or even streaming video with big, clear sound. With the Sound Rise conveniently located on the nightstand, there is no need for another wireless speaker elsewhere in the room, offering a cost savings, and, again, reducing clutter. Further, Bluetooth also allows for a dock-less design, which not only clears up real estate on the nightstand, but protects from future obsolescence as device hardware changes."
+				]
 		},
 		{
 			"title":"Features for the Guest",
+			"handle":"features-for-the-guest",
 			"url":"sound-rise-design-note.pdf",
-			"preview":"Sound Rise Hotel Edition offers an interface that’s streamlined and simplified for hotel guests. Nobody wants to invest time or effort in figuring out a device that they’ll use only during their stay, so we made the alarm and Bluetooth features clear and intuitive so a guest will never wonder if they did it right. The adjustable brightness allows guests to set the display to their likeness, even if that means turning it all the way off. Tap any button and the display illuminates for 5 seconds."
+			"mobile":"hide",
+			"preview":
+				[
+					"Sound Rise Hotel Edition offers an interface that’s streamlined and simplified for hotel guests. Nobody wants to invest time or effort in figuring out a device that they’ll use only during their stay, so we made the alarm and Bluetooth features clear and intuitive so a guest will never wonder if they did it right. The adjustable brightness allows guests to set the display to their likeness, even if that means turning it all the way off. Tap any button and the display illuminates for 5 seconds."
+				]
 		},
 		{
 			"title":"Features for the Hotel",
+			"handle":"features-for-the-hotel",
 			"url":"sound-rise-design-note.pdf",
-			"preview":"In order to integrate Sound Rise Hotel Edition as seamlessly as possible, we made some changes that allow hotel staff to reset the Bluetooth connection with one touch upon checkout. A non-recurring alarm means a hotel doesn’t have to worry about alarms in empty rooms. And a lower maximum volume means that neighboring rooms won’t be bothered by sound bleed. An optional security tether means that Sound Rise Hotel Edition isn’t going anywhere no matter how much the guest wants to take it home."
+			"mobile":"hide",
+			"preview": 
+				[
+					"In order to integrate Sound Rise Hotel Edition as seamlessly as possible, we made some changes that allow hotel staff to reset the Bluetooth connection with one touch upon checkout. A non-recurring alarm means a hotel doesn’t have to worry about alarms in empty rooms. And a lower maximum volume means that neighboring rooms won’t be bothered by sound bleed. An optional security tether means that Sound Rise Hotel Edition isn’t going anywhere no matter how much the guest wants to take it home."
+				]
 		},
 		{
-			"title":"Design",
+			"title":"Design & Customization",
+			"handle":"design-and-customization",
 			"url":"sound-rise-design-note.pdf",
-			"preview":"The one thing we didn’t change for our hotel version was the look of Sound Rise. We felt that the same things that make the Sound Rise look at home in a bedroom will make it look at home in a hotel room. The clean lines, and elegant simplicity are still there, in either all-black or our wood + taupe color scheme."
+			"mobile":"hide",
+			"preview":
+				[
+					"The one thing we didn’t change for our hotel version of Sound Rise is its look. The same clean lines and elegant simplicity that have made Sound Rise a modern classic in the bedroom also make it look right at home in a hotel room, too.",
+
+					"For hotels, though, we’re taking it one step further and offering customized designs for your hotel. From solid colors to bold, vibrant patterns, Sound Rise Hotel Edition can be customized to match the color palettes featured in any room. You can pick from styles we’ve already designed or work with us to come up with a one-of a kind design that’s just right for your hotel. For hotels that place a premium on design, a customized version of Sound Rise offers a unique style -- that’s as unique as your hotel."
+				]
+		},
+		{
+			"title":"Always the Right Time: Auto-Daylight Savings",
+			"handle":"auto-dst",
+			"url":"sound-rise-design-note.pdf",
+			"mobile":"hide",
+			"preview":
+				[
+					"Sound Rise Hotel Edition offers three key features that make it a timeless clock: auto-DST, a back-up battery and a tamper-proof time setting. Once you set up the time on Sound Rise, your staff will never have to worry about adjusting it again.",
+
+					"Everyone knows to spring forward and fall back, but remembering when to make the change and having your housekeeping staff switch all the clocks in every room can be quite a chore. Sound Rise Hotel Edition's auto-DST runs off of a built-in internal calendar that automatically adjusts the time one hour ahead for Daylight Savings Time and one hour back to Standard Time. There aren’t any buttons or switches that your hotel staff needs to remember press. Sound Rise simply keeps the right time, all the time.",
+
+					"Sound Rise also has a built-in backup battery, so if there’s a power outage, Sound Rise keeps the time until the power comes back on. And to ensure the time isn’t changed by guests, we removed the “time set” button on the hotel edition of Sound Rise so that guests can’t tamper with the time. Now you (and your guests!) can sleep with ease knowing that rooms will always have the right time displayed."
+				]
 		}
 	],
 	"asSeenIn": [
